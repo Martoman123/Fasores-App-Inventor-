@@ -116,21 +116,15 @@ Paso 9: Finalmente se realiza el diseño de la aplicación y así es como queda:
 2.3	Resultados
 
 ![image](https://user-images.githubusercontent.com/94182617/156446186-9c28fdeb-560a-42ab-960d-6de0be2ce4a9.png)
-
 ![image](https://user-images.githubusercontent.com/94182617/156446201-f4e322e9-32e4-4c90-83f8-416b1e03e88f.png)
-
 ![image](https://user-images.githubusercontent.com/94182617/156446221-7159b2c9-0b57-43c3-935c-0de3d3680912.png)
 
 ![image](https://user-images.githubusercontent.com/94182617/156446242-735c36e0-ac9a-47a6-991d-ef1c0b49169b.png)
-
 ![image](https://user-images.githubusercontent.com/94182617/156446250-8b0e2b33-d384-4ebd-a8a7-ecbff8bbb094.png)
-
 ![image](https://user-images.githubusercontent.com/94182617/156446262-6c09d1ca-d92b-44ac-807d-5bc65fb9ac2f.png)
 
 ![image](https://user-images.githubusercontent.com/94182617/156446274-6b456dff-d0f9-4055-a19d-ac7a161efb97.png)
-
 ![image](https://user-images.githubusercontent.com/94182617/156446282-3e9a81c3-45b5-413c-9ddc-b183e0907791.png)
-
 ![image](https://user-images.githubusercontent.com/94182617/156446288-7f5caf1b-9ff0-4bef-bede-abd8c5feaaf1.png)
 
 3.	Conclusiones:
