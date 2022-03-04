@@ -127,7 +127,15 @@ Paso 9: Finalmente se realiza el diseño de la aplicación y así es como queda:
 ![image](https://user-images.githubusercontent.com/94182617/156446282-3e9a81c3-45b5-413c-9ddc-b183e0907791.png)
 ![image](https://user-images.githubusercontent.com/94182617/156446288-7f5caf1b-9ff0-4bef-bede-abd8c5feaaf1.png)
 
-3.	Conclusiones:
+2.4 Aplicación
+Apk: 
+
+
+3. Video
+
+https://www.youtube.com/watch?v=1zFUUoq-x9o
+
+4.	Conclusiones:
 
 •	Al crear una aplicación en App Inventor es evidente notar que éste mecanismo para la creación de aplicaciones brinda facilidad y comodidad al momento de diseñar la app y poder utilizarla como una aplicación para el teléfono. 
 
@@ -135,7 +143,7 @@ Paso 9: Finalmente se realiza el diseño de la aplicación y así es como queda:
 
 •	Se establece que esta aplicación sirve para indicarle al cerebro del dispositivo móvil qué queremos que haga, y cómo, en el caso de esta aplicación su función es obtener el resultado de conversiones y operaciones de fasores, la cual es una aplicación simple que la puede usar cualquiera.
 
-4.	Recomendaciones:
+5.	Recomendaciones:
 
 •	La aplicación se puede descargar fácilmente, modificar e incluso crear su propia versión de la herramienta lo que beneficia enormemente a la comunidad. Las aplicaciones desarrolladas pertenecen al creador. No hay que pagar dinero por la licencia por crear con MIT App Inventor.
 
